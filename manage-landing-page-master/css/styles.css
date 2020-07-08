@@ -1,0 +1,13 @@
+
+#navbar,#top,#middle,#bottom{
+align-items:center;
+align-content: center;
+}
+
+#navbar{
+  padding: 80px 20px;
+}
+
+h1{
+  padding: 5% 10% 5% 0;
+}
